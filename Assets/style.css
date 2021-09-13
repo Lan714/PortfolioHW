@@ -1,1 +1,7 @@
 .APP {font-size: 250%; font-weight: bold;}
+
+footer {
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+}
